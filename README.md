@@ -10,7 +10,6 @@
 Pinned Projects:
   
 - [5M Player Track](https://github.com/Yahye-Abdulle/5M-Player-Tracker/tree/main)
-- [Worlde Solver (Outdated)](https://github.com/Yahye-Abdulle/Wordle-Solver/tree/main)
 
 How to reach me:
 - Email: **yabdulle@outlook.com**
