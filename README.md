@@ -8,7 +8,9 @@
 - **Currently working on a Google Extension App**
 
 Pinned Projects:
-  
+
+- [Netflix List Sharing (Google Extension App)](https://github.com/Yahye-Abdulle/NShare)
+- [Wordle Solver (Outdated)](https://github.com/Yahye-Abdulle/Wordle-Solver)
 - [5M Player Track](https://github.com/Yahye-Abdulle/5M-Player-Tracker/tree/main)
 
 How to reach me:
